@@ -14,6 +14,7 @@
 		9E0D26CE28999D4E00942EAF /* GetttingGreen.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9E0D26CC28999D4E00942EAF /* GetttingGreen.xcdatamodeld */; };
 		9E0D26D028999D5300942EAF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E0D26CF28999D5300942EAF /* Assets.xcassets */; };
 		9E0D26D328999D5300942EAF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E0D26D128999D5300942EAF /* LaunchScreen.storyboard */; };
+		9E0D26DB289C0E2100942EAF /* BudgetTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E0D26DA289C0E2000942EAF /* BudgetTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		9E0D26CF28999D5300942EAF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9E0D26D228999D5300942EAF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9E0D26D428999D5300942EAF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9E0D26DA289C0E2000942EAF /* BudgetTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BudgetTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				9E0D26C528999D4E00942EAF /* SceneDelegate.swift */,
 				9E0D26C728999D4E00942EAF /* ViewController.swift */,
 				9E0D26C928999D4E00942EAF /* Main.storyboard */,
+				9E0D26DA289C0E2000942EAF /* BudgetTableViewController.swift */,
 				9E0D26CF28999D5300942EAF /* Assets.xcassets */,
 				9E0D26D128999D5300942EAF /* LaunchScreen.storyboard */,
 				9E0D26D428999D5300942EAF /* Info.plist */,
@@ -145,6 +148,7 @@
 				9E0D26CE28999D4E00942EAF /* GetttingGreen.xcdatamodeld in Sources */,
 				9E0D26C428999D4E00942EAF /* AppDelegate.swift in Sources */,
 				9E0D26C628999D4E00942EAF /* SceneDelegate.swift in Sources */,
+				9E0D26DB289C0E2100942EAF /* BudgetTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

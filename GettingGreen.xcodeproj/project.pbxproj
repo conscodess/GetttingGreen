@@ -117,7 +117,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9E0D26BB28999D4E00942EAF /* Build configuration list for PBXProject "GetttingGreen" */;
+			buildConfigurationList = 9E0D26BB28999D4E00942EAF /* Build configuration list for PBXProject "GettingGreen" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -359,7 +359,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9E0D26BB28999D4E00942EAF /* Build configuration list for PBXProject "GetttingGreen" */ = {
+		9E0D26BB28999D4E00942EAF /* Build configuration list for PBXProject "GettingGreen" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9E0D26D528999D5300942EAF /* Debug */,

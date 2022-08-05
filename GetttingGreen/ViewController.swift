@@ -8,7 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
     @IBOutlet weak var scoreReportButton: UIButton!
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -16,6 +16,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func scoreReportButton(_ sender: Any) {
+       
         let url = URL(string:
         "https://www.annualcreditreport.com/requestReport/landingPage.action")!
         UIApplication.shared.open (url)

@@ -10,6 +10,7 @@
 		48E84D4C289C433C00F04F62 /* BudgetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48E84D4B289C433C00F04F62 /* BudgetViewController.swift */; };
 		48E84D4E289C43E000F04F62 /* DailyTipperViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48E84D4D289C43E000F04F62 /* DailyTipperViewController.swift */; };
 		48E84D50289C4B8D00F04F62 /* ExtraResourcesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48E84D4F289C4B8D00F04F62 /* ExtraResourcesViewController.swift */; };
+		8EF2AC34289CC6300039FD59 /* AgeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EF2AC33289CC6300039FD59 /* AgeViewController.swift */; };
 		9E0D26C428999D4E00942EAF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E0D26C328999D4E00942EAF /* AppDelegate.swift */; };
 		9E0D26C628999D4E00942EAF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E0D26C528999D4E00942EAF /* SceneDelegate.swift */; };
 		9E0D26C828999D4E00942EAF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E0D26C728999D4E00942EAF /* ViewController.swift */; };
@@ -23,6 +24,7 @@
 		48E84D4B289C433C00F04F62 /* BudgetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BudgetViewController.swift; sourceTree = "<group>"; };
 		48E84D4D289C43E000F04F62 /* DailyTipperViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyTipperViewController.swift; sourceTree = "<group>"; };
 		48E84D4F289C4B8D00F04F62 /* ExtraResourcesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtraResourcesViewController.swift; sourceTree = "<group>"; };
+		8EF2AC33289CC6300039FD59 /* AgeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AgeViewController.swift; sourceTree = "<group>"; };
 		9E0D26C028999D4E00942EAF /* GetttingGreen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GetttingGreen.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E0D26C328999D4E00942EAF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9E0D26C528999D4E00942EAF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -67,10 +69,11 @@
 				9E0D26C328999D4E00942EAF /* AppDelegate.swift */,
 				9E0D26C528999D4E00942EAF /* SceneDelegate.swift */,
 				9E0D26C728999D4E00942EAF /* ViewController.swift */,
-				9E0D26C928999D4E00942EAF /* Main.storyboard */,
 				48E84D4F289C4B8D00F04F62 /* ExtraResourcesViewController.swift */,
 				48E84D4D289C43E000F04F62 /* DailyTipperViewController.swift */,
 				48E84D4B289C433C00F04F62 /* BudgetViewController.swift */,
+				9E0D26C928999D4E00942EAF /* Main.storyboard */,
+				8EF2AC33289CC6300039FD59 /* AgeViewController.swift */,
 				9E0D26CF28999D5300942EAF /* Assets.xcassets */,
 				9E0D26D128999D5300942EAF /* LaunchScreen.storyboard */,
 				9E0D26D428999D5300942EAF /* Info.plist */,
@@ -156,6 +159,7 @@
 				48E84D4C289C433C00F04F62 /* BudgetViewController.swift in Sources */,
 				9E0D26CE28999D4E00942EAF /* GetttingGreen.xcdatamodeld in Sources */,
 				9E0D26C428999D4E00942EAF /* AppDelegate.swift in Sources */,
+				8EF2AC34289CC6300039FD59 /* AgeViewController.swift in Sources */,
 				9E0D26C628999D4E00942EAF /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
